@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1030150872414",
+    "firebase_url": "https://myfirstproject-ed6b4.firebaseio.com",
+    "project_id": "myfirstproject-ed6b4",
+    "storage_bucket": "myfirstproject-ed6b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030150872414:android:4f3ca21614bf8894",
+        "android_client_info": {
+          "package_name": "tomer.edu.navdraweractivitywithfragmentstomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030150872414-3gvo496vebmlpmhc3g5p00ti19ikmd89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNob8z0ZY5IofvqMCcePWU09-OWJFKy38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030150872414:android:38cf20882eabcf0d",
+        "android_client_info": {
+          "package_name": "edu.tomer.firedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030150872414-4o4r9agvfhukn61ekpqf9j8vlucpfii3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.tomer.firedemo",
+            "certificate_hash": "B19D34455AFC1BAAC246BDFEF341089C60D2CCC8"
+          }
+        },
+        {
+          "client_id": "1030150872414-3gvo496vebmlpmhc3g5p00ti19ikmd89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNob8z0ZY5IofvqMCcePWU09-OWJFKy38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030150872414-3gvo496vebmlpmhc3g5p00ti19ikmd89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030150872414:android:fa5e46f1d66e51d7",
+        "android_client_info": {
+          "package_name": "tomer.edu.firedemo10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030150872414-vg07970m3s7cm7nr8e9s3fuhpl0c904k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomer.edu.firedemo10",
+            "certificate_hash": "27558EA6D529AF4749B1662F48DF39E27BFA88CA"
+          }
+        },
+        {
+          "client_id": "1030150872414-3gvo496vebmlpmhc3g5p00ti19ikmd89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNob8z0ZY5IofvqMCcePWU09-OWJFKy38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030150872414-3gvo496vebmlpmhc3g5p00ti19ikmd89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
